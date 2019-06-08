@@ -6,5 +6,5 @@ I think so.
 
 Example 
 
-![map](http://url/to/img.png)
-![gif](http://url/to/img.png)
+![map](https://github.com/JakubRybakowski/TribalWarsMap/blob/master/example/map.png)
+![gif](https://github.com/JakubRybakowski/TribalWarsMap/blob/master/example/out.gif)
